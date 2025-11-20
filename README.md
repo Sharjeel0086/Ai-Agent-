@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chat Application
 
 An intelligent AI chat application with real-time streaming, conversation history, and advanced features.
@@ -108,3 +109,7 @@ The built files will be in the `dist/` directory.
 ## License
 
 Private - For personal use
+=======
+# Ai-Agent-
+Ai agent like chat gpt
+>>>>>>> 40c60f43382c8d197467fc58b7ee743a004d6b62
